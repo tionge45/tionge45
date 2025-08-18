@@ -28,9 +28,9 @@ I enjoy exploring new technologies and applying them in projects that touch on *
 ---
 
 ## ❤️ Passions
-- 🌐 Web Development  
+- 🌐 Full Stack Web Development  
 - 🤖 Machine Learning  
-- 📱 App Development  
+- 📱 Full Stack App Development  
 
 ---
 
@@ -47,10 +47,10 @@ I enjoy exploring new technologies and applying them in projects that touch on *
 
 <div align="center">
 
-![Tionge's GitHub stats](https://github-readme-stats.vercel.app/api?username=stionge45&show_icons=true&theme=tokyonight)  
+![Tionge's GitHub stats](https://github-readme-stats.vercel.app/api?username=tionge45&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stionge45&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tionge45&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stionge45&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tionge45&theme=tokyonight)
 
 </div>
