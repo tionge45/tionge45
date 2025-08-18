@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**tionge45/tionge45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I’m Tionge Sakala, a **third-year Mathematics and Computer Science student** with a deep passion for problem solving and building practical solutions through code.  
+I enjoy exploring new technologies and applying them in projects that touch on **web development, machine learning, and app development**.  
 
-Here are some ideas to get you started:
+📫 Connect with me on [LinkedIn](www.linkedin.com/in/tionge-sakala-849211217)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+<!-- Programming Languages -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+
+<!-- Frameworks -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+
+<!-- Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+
+</div>
+
+---
+
+## ❤️ Passions
+- 🌐 Web Development  
+- 🤖 Machine Learning  
+- 📱 App Development  
+
+---
+
+## 📂 Popular Repositories
+
+ 
+- [📊 Personal Finance Manager](https://github.com/tionge45/finance-manager) – A JavaFX desktop app for managing personal finances with database integration.  
+- [🧠 Therapist Bot](https://github.com/tionge45/YourOwnTherapist) – A mental health journaling and emotional stats tracking bot.
+- - [🚀 HTTPS Proxy Server](https://github.com/YOUR-USERNAME/HOMEWORK-BOT) – A proxy server
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![Tionge's GitHub stats](https://github-readme-stats.vercel.app/api?username=stionge45&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stionge45&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stionge45&theme=tokyonight)
+
+</div>
