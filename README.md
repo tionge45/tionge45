@@ -34,11 +34,11 @@ I enjoy exploring new technologies and applying them in projects that touch on *
 
 ---
 
-## 📂 Popular Repositories
+## 📂 Personal Projects
 
  
 - [📊 Personal Finance Manager](https://github.com/tionge45/finance-manager) – A JavaFX desktop app for managing personal finances with database integration.  
-- [🧠 Therapist Bot](https://github.com/tionge45/YourOwnTherapist) – A mental health journaling and emotional stats tracking bot.
+- [🧠 Therapist Telegram Bot](https://github.com/tionge45/YourOwnTherapist) – A mental health journaling and emotional stats tracking bot.
 - [🚀 HTTPS Proxy Server](https://github.com/YOUR-USERNAME/HOMEWORK-BOT) – A proxy server
 
 ---
