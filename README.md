@@ -34,7 +34,7 @@ I enjoy exploring new technologies and applying them in projects that touch on *
 ## ❤️ Passions
 - 🌐 Full Stack Web Development  
 - 🤖 Machine Learning  
-- 📱 Full Stack App Development  
+- 📱 Android Development
 
 ---
 
