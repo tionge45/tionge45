@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## 👨‍💻 About Me
-I’m Tionge Sakala, a **third-year Mathematics and Computer Science student** with a deep passion for problem solving and building practical solutions through code.  
+I’m Tionge Sakala, a **4th year Mathematics and Computer Science student** with a deep passion for problem solving and building practical solutions through code.  
 I enjoy exploring new technologies and applying them in projects that touch on **web development, machine learning, and app development**.  
 
 📫 Connect with me on [LinkedIn](www.linkedin.com/in/tionge-sakala-849211217)
